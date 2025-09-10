@@ -47,5 +47,3 @@ snowpipe-auto-ingest/
 └── data/
     └── Adidas_US_Sales_Datasets.csv   # sample file to upload to S3
 
-<img width="1911" height="826" alt="image" src="https://github.com/user-attachments/assets/9fe8fce8-b1c0-4311-ae23-e7f319c9d907" />
-
