@@ -1,4 +1,4 @@
-# Snowpipe Auto Ingest Project
+# Snowpipe Auto Ingest Project / CloudPipe
 
 This project demonstrates **continuous ingestion and transformation** of data into Snowflake using:
 
